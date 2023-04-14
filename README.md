@@ -5,3 +5,24 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromujica1&layout=compact&theme=github_dark&hide_border=true"/>
   <br>
 </div>
+
+                                        
+                     $$$#               
+                     #$$$$#             
+                  K#KO#$$$$#            
+                  k###O#$$$$#           
+                    kK#OK$$$$#K         
+                      OKKO#$$$#         
+              O#$$#O    KKK$$$$#        
+         K$$$$$$$$$$$$$#OOk#$$$#K       
+         K$$$$$$$$$$$$$$$$##K#$$#K      
+       #$K OO     OK#$$$$$$$$$$###      
+      #$$$$#         OO##$$$$$$$$$#     
+      O#$$$$#          #$$$$$$$$$$KO    
+       K#$$$$#       K#$$$$$$$$$$KO     
+       O#$$$$$$#KK####$$$$$$$$$##K      
+         K#$$$$$$$$$$$$$$$$$$$$#KO      
+          K##$$$$$$$$$$$$$$$$$##O       
+           kK###$$$$$$$$$$$$###K        
+             OK######$$######KO         
+                OOKKKKKKKKOO            
