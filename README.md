@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9e8cff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&color=9e8cff&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Perfil+Budy+%3AD;Settle+where+you+want...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&color=9e8cff&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Profile+Budy+%3AD;Settle+where+you+want...)](https://git.io/typing-svg)
 
 ![image](https://www.icegif.com/wp-content/uploads/2021/09/icegif-2.gif)
 
