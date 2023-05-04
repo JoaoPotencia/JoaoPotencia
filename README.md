@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&pause=1000&color=F7F7F7&width=435&lines=Bem+vindo+ao+perfil+brou;Vai+um+Nescau%3F+Pega+ai+!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Braah+One&pause=1000&color=FFFFFF&background=03030300&width=414&height=41&lines=Welcome+to+my+Perfil+Budy;Settle+where+you+want+++%3A))](https://git.io/typing-svg)
 
 ![image](https://www.icegif.com/wp-content/uploads/2021/09/icegif-2.gif)
 
