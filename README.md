@@ -6,6 +6,7 @@
 <div>
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leuis0101&layout=compact&theme=github_dark&hide_border=true"/>
   <br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leuis0101&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leuis0101&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
