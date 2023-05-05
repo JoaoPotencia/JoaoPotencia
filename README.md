@@ -35,11 +35,15 @@
  
 </div>
 
+<div align="center">
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leuis0101/Leuis0101/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leuis0101/Leuis0101/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Leuis0101/Leuis0101/output/github-contribution-grid-snake.svg">
+</picture>
+ 
+</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9e8cff&height=120&section=footer"/>
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/Leuis0101/Leuis0101/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
