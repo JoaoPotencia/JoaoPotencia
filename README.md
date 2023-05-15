@@ -1,4 +1,4 @@
-<img width=100% src="https://aniyuki.com/wp-content/uploads/2021/06/aniyuki-gif-demon-slayer-74.gif"/>
+<img width=100% src=""/>
 
 <div align="center">
  
